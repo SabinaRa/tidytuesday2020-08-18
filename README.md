@@ -6,4 +6,4 @@ https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-18/
 Data source: IUCN
 
 Screenshot
-![Screenshot](TTw34plot.png)
+![Screenshot](TTw34_plot.png)
